@@ -39,13 +39,13 @@ PREF=f6=40000000&tz=Asia.Kolkata&f7=100;
 VISITOR_INFO1_LIVE=kt9TasJxM1o
 """
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-OWNER_ID = list(map(int, getenv("OWNER_ID", "6855727440").split()))
+API_ID = int(getenv("API_ID", "36895990"))
+API_HASH = getenv("API_HASH", "a0377d4fc8c9ce4bd1474acd404b2492")
+BOT_TOKEN = getenv("BOT_TOKEN", "8960275147:AAG7VAjQShsfQBM-ScRU3z7bM48gmMDbeew")
+OWNER_ID = list(map(int, getenv("OWNER_ID", "8603009934").split()))
 MONGO_DB = getenv("MONGO_DB", "")
 LOG_GROUP = getenv("LOG_GROUP", "-5240929266")
-CHANNEL_ID = int(getenv("CHANNEL_ID", "-1002080858664"))
+CHANNEL_ID = int(getenv("CHANNEL_ID", "-1004387342046"))
 FREEMIUM_LIMIT = int(getenv("FREEMIUM_LIMIT", "50"))
 PREMIUM_LIMIT = int(getenv("PREMIUM_LIMIT", "1000"))
 WEBSITE_URL = getenv("WEBSITE_URL", "shrinkforearn.in")
