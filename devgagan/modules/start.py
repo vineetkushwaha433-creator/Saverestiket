@@ -4,7 +4,7 @@
 #              and uploading them back to Telegram.
 # Author: Gagan
 # GitHub: https://github.com/devgaganin/
-# Telegram: https://t.me/PdfsHubbb
+# Telegram: https://t.me/hsusoledhe
 # YouTube: https://youtube.com/@dev_gagan
 # Created: 2025-01-11
 # Last Modified: 2025-08-23
@@ -168,7 +168,7 @@ async def terms(client, message):
     buttons = InlineKeyboardMarkup(
         [
             [InlineKeyboardButton("📋 See Plans", callback_data="see_upgrade")],
-            [InlineKeyboardButton("💬 Contact Now", url="https://t.me/pankajccc")],
+            [InlineKeyboardButton("💬 Contact Now", url="https://t.me/Course_Provide")],
         ]
     )
     await message.reply_text(terms_text, reply_markup=buttons)
