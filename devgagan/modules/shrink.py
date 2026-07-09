@@ -4,7 +4,7 @@
 #              and uploading them back to Telegram.
 # Author: Gagan
 # GitHub: https://github.com/devgaganin/
-# Telegram: https://t.me/PdfsHubbb
+# Telegram: https://t.me/hsusoledhe
 # YouTube: https://youtube.com/@dev_gagan
 # Created: 2025-01-11
 # Last Modified: 2025-01-11
@@ -74,8 +74,8 @@ async def token_handler(client, message):
         image_url = "https://i.postimg.cc/tCJ0M27D/IMG-20250823-145001-279.jpg"
 
         # ✅ Buttons
-        join_button = InlineKeyboardButton("📢 Join Channel", url="https://t.me/seedbhaiking")
-        premium = InlineKeyboardButton("💎 Get Premium", url="https://t.me/pankajccc")
+        join_button = InlineKeyboardButton("📢 Join Channel", url="https://t.me/hsusoledhe")
+        premium = InlineKeyboardButton("💎 Get Premium", url="https://t.me/Course_Provide")
         help_button = InlineKeyboardButton("❓ Help", callback_data="help")
 
         keyboard = InlineKeyboardMarkup([
